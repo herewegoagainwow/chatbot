@@ -1,0 +1,2 @@
+so llava could have been used if we need a verbose description of the table contents,
+might add this at a later stage for better understanding. for now donut v2 works well 
